@@ -12,3 +12,14 @@ $ .\make.cmd debug
 ```bat
 $ .\make.sh release
 ```
+
+## Build and Run
+
+### Debug
+```bat
+$ .\make.cmd debug-run
+```
+### Release
+```bat
+$ .\make.sh release-run
+```
